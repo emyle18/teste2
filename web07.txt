@@ -1,0 +1,14 @@
+1- Mudamos o menu da maioria das páginas qnd a media queries for aplicada.
+
+ 
+
+2- Aplicamos animaçõpes ao clicar na imagem das páginas home, dúvidas e ajuda.
+
+Aplicamos uma mensagem feita com alert quando uma pessoa clicar no botão "começo" que fica em quase todas as páginas e no botão "cadastrar" que fica em "Cadastrar".
+
+Alguns parágrafos mudam de cor quando a pessoa passa o mouse por cima.
+
+
+Equipe: Luize Keyla da Silva Oliveira 
+        Emyle Vitória Silva da Paz Martins
+

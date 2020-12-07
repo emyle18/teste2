@@ -1,0 +1,184 @@
+/*body {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+
+    max-width: 100%;
+    height: auto;
+
+    background: rgb(213, 243, 212)
+
+}
+
+main{
+    margin: 0 auto;
+    width: 100%;
+    float:left;
+    position:relative;
+ 
+}
+
+.comeco{
+    background-color: #d6f1d6;
+    width:101%;
+    height: 60px;
+    float: 5;
+
+
+}
+
+.header41 img {
+
+    
+    height: 55px;
+    width: 10%;
+    padding-left: 5pt;
+    
+    
+}
+
+.menuDuvidas{
+    background-color: rgb(49, 100, 7);
+    margin: 0 auto;
+    
+    
+}
+
+.menuDuvidas ul li{
+    display: inline-block;
+    margin-left: 120px;
+}
+
+.menuDuvidas ul li a{
+   
+    color: rgb(234, 245, 233);
+    text-decoration: none;
+    font-size: 18px;
+    text-shadow: #131a0f 5px 5px 2px ;
+    
+}*/
+
+.duvidas1 h1 {
+
+    text-align:center;
+    
+    color: azure;
+    margin: 0 auto;
+    margin-bottom: 5;
+    font-size: 30pt;
+    text-shadow: #131a0f 5px 5px 3px ;
+  
+}
+
+/*.fundo-pagina{
+
+    background-color: rgb(49, 100, 7);
+    width: 100%;
+    margin: 0 auto;
+    border-top: 10px solid  rgb(0, 0, 0);
+    border-bottom: 10px solid  rgb(8, 8, 8);
+    
+
+}
+
+/*.imgcomeco1 img{
+
+    width: 101%;
+    height: 200px;
+
+}*/
+
+.tituloDuvidas h1 {
+    color: rgb(41,65,22);
+    font-size: 50pt;
+    text-align: center;
+    margin-top: 10%;
+    text-shadow: #ccd8c9 5px 5px 2px ;
+}
+
+.tituloDuvidas img{
+    margin-top: 5%;
+    margin-left: 25%;
+    width: 50%;
+    height: 300;
+}
+
+.tituloDuvidas h2 {
+    margin-top: 10%;
+    margin-left: 5%;
+    font-size: 25pt;
+    color: rgb(41,65,22);
+    
+    
+}
+
+.tituloDuvidas p{
+    margin-left: 5%;
+    font-size:15pt;
+}
+
+.duvidas2 h2{
+
+    margin-top: 3%;
+    margin-left: 5%;
+    font-size: 25pt;
+    color: rgb(41,65,22);
+    
+
+}
+
+.duvidas2 p{
+
+    margin-left: 5%;
+    font-size:15pt;
+
+}
+
+/*.fimGeral {
+
+    
+    background-color: rgb(49, 100, 7);
+    width:100%;
+    height:200px;
+    margin-top: 15%;
+
+}
+
+
+.redes ul li {
+
+    display: inline-block;
+    
+    list-style: none;
+    
+    
+}
+
+.redes img {
+
+    height:  70px;
+    margin-top: 30%;
+    
+    
+   
+}
+
+
+
+.redes ul li a{
+    width:100%
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+

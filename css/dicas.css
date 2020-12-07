@@ -1,0 +1,167 @@
+/*body {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+
+    max-width: 100%;
+    height: auto;
+
+    
+
+}
+
+main{
+    margin: 0 auto;
+    width: 100%;
+    float:left;
+    position:relative;
+ 
+}
+
+
+
+
+.header11{
+    background-color: rgb(213, 243, 212);
+    width:101%;
+    height:5;
+   
+    text-align:1;
+   
+    margin: 0auto;
+    
+ 
+ 
+ }
+
+.header11 img{
+    padding-left: 5pt;
+    height:55px;
+    width: 10%;
+   
+    
+
+
+}
+
+.menuDicas ul li{
+    display: inline-block;
+    margin-left: 120px;
+}
+
+.menuDicas ul li a{
+   
+    color: rgb(234, 245, 233);
+    text-decoration: none;
+    font-size: 18px;
+    text-shadow: #131a0f 5px 5px 2px ;
+    
+}*/
+
+
+
+/*.fundo-pagina h1 {
+
+    text-align:center;
+    
+    color: azure;
+    margin: 0 auto;
+    margin-bottom: 5;
+    font-size: 30pt;
+    text-shadow: #131a0f 5px 5px 3px ;
+    
+  
+  
+}
+
+/*.fundo-pagina {
+    background-color: rgb(49, 100, 7);
+    width: 100%;
+    margin: 0 auto;
+    border-top: 10px solid  rgb(0, 0, 0);
+    border-bottom: 10px solid  rgb(8, 8, 8);
+    
+    
+}
+
+.imagem-principal img{
+    
+   
+    height: 200px;
+        
+    width: 101%;
+
+    margin: 0 auto;
+
+    
+}*/
+
+.texto11 h1{
+
+    color: rgb(41,65,22);
+    margin-top: 9%;
+    margin-left: 0%;
+    font-size: 60px;
+    margin-left: 10%;
+    text-shadow: #ccd8c9 5px 5px 2px ;
+
+
+}
+
+
+.texto11 p {
+
+    margin-left: 2%;
+    text-align: justify;
+    margin-top: 10%;
+    font-size: 16pt;
+    margin-top: 2%;
+}
+
+.texto11 img {
+    margin-top: 1px;
+}
+
+.texto11 img, p {
+
+    width: 600px;
+    height: 500px;
+    display: inline-block;
+}
+.texto-video {
+    margin-left: 10%;
+    margin-top: 1%;
+    border-top: 0 ;
+    
+}
+
+.video1 {
+    margin-top:8%;
+    text-align:center;
+    margin-bottom:8%;
+
+}
+
+
+
+
+ .header22 img {
+
+    height: 50%;
+        
+    width: 1%;
+
+  
+ }
+
+ .header13{
+    background-color: rgb(49, 100, 7);
+    width:100%;
+    height:200px;
+   
+ }
+
+ 
+
+
+

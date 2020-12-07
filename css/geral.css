@@ -1,0 +1,281 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+
+    max-width: 100%;
+    height: auto;
+
+    background: rgb(213, 243, 212);
+
+}
+
+main{
+    margin: 0 auto;
+    width: 100%;
+    float:left;
+    position:relative;
+ 
+}
+
+
+
+
+
+
+
+
+
+
+.comecoGeral{
+    background-color: rgb(213, 243, 212);
+    width:100%;
+    height:5;
+   
+    text-align:1;
+   
+    margin: 0auto;
+
+    position: fixed;
+
+    
+
+    
+
+    
+    
+
+  
+    
+
+    
+
+    
+    
+ 
+ }
+
+.header41 img{
+    padding-left: 5pt;
+    height:55px;
+    width: 10%;
+
+
+    
+   
+
+}
+
+.fundo-pagina h1 {
+
+    text-align:center;
+    
+    color: azure;
+    margin: 0 auto;
+    margin-bottom: 5;
+    font-size: 25pt;
+    text-shadow: #131a0f 5px 5px 3px ;
+
+    
+
+    
+    
+  
+  
+}
+
+.fundo-pagina {
+    background-color: rgb(49, 100, 7);
+    width: 100%;
+    margin: 0 auto;
+    border-top: 10px solid  rgb(0, 0, 0);
+    border-bottom: 10px solid  rgb(8, 8, 8);
+
+    position: fixed;
+    
+
+   
+
+    
+    
+    
+}
+
+.menuGeral ul li{
+    display: inline-block;
+    margin-left: 60px;
+}
+
+.menuGeral ul li a{
+   
+    color: rgb(234, 245, 233);
+    text-decoration: none;
+    font-size: 20px;
+    text-shadow: #090a09 5px 5px 2px ;
+    
+}
+
+.imagem-principal img{
+    
+   
+    height: 200px;
+        
+    width: 100%;
+
+    margin: 0 auto;
+
+    
+}
+
+
+.fimGeral {
+
+    
+    background-color: rgb(49, 100, 7);
+    width:100%;
+    height:200px;
+    margin-top: 15%;
+    
+
+}
+
+
+.redes ul li {
+
+    display: inline-block;
+    
+    list-style: none;
+    
+    
+}
+
+.redes img {
+
+    height:  70px;
+    margin-top: 30%;
+    
+    
+   
+}
+
+
+
+.redes ul li a{
+    width:100%
+}
+
+
+.comeco a{
+
+    color: rgb(244, 248, 248);
+    font-size: 15pt;
+
+    margin-top: 20%;
+    text-decoration: none;
+}
+
+.comeco{
+    margin-top: 5%;
+    margin-left: 80%;
+    
+}
+
+.botao1{
+
+    background: rgb(17, 85, 32);
+    
+    border-radius: 5px ;
+    border: 5px solid rgb(17, 85, 34);
+    
+    
+    
+}
+
+@media(max-width: 360px) and (max-height:742px){
+
+    
+
+    .botao1{
+
+        background: rgb(17, 85, 26);
+        margin-left: -56%;
+       
+
+
+    }
+
+    .fimGeral{
+        height: 280px;
+    }
+
+    .menuGeral ul li a{
+
+        border: 2px solid rgb(1, 8, 0);
+        border-radius: 10px 10px;
+        
+        display:relative;
+        background: rgb(0, 24, 2);
+        width:20%;
+        color: #ffffff
+
+      
+        
+    }
+
+    .menuGeral ul li{
+
+        position: relative;
+        width: 25%;
+        height: 30px;
+    }
+
+    .titulo2 p{
+
+        text-align: justify;
+
+        margin-left: 3%;
+        margin-right: 3%;
+        margin-top: 20%;
+    }
+
+    .textoAjuda h1{
+
+        font-size: 30pt;
+    }
+
+
+
+
+
+   
+
+}
+
+@media(max-width: 800px) and (max-height:1280px){
+
+    .fimGeral{
+        height: 50;
+        margin-top: 35%;
+
+
+    }
+
+    .menuGeral ul li{
+        display: inline-block;
+        margin-left: 3%;
+        
+        
+        
+    }
+
+
+
+
+}
+
+
+
+
+
+
+

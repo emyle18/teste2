@@ -1,0 +1,29 @@
+
+.titulo h1{
+
+    color: rgb(41,65,22);
+    font-size: 50pt;
+    text-align: center;
+    margin-top: 10%;
+    text-shadow: #ccd8c9 5px 5px 2px ;
+
+}
+
+.titulo h2{
+
+    margin-top: 10%;
+    margin-left: 5%;
+    font-size: 25pt;
+    color: rgb(41,65,22);
+
+}
+
+.titulo p{
+
+    margin-top: 2%;
+    margin-left: 5%;
+    font-size: 18pt;
+    color: rgb(41,65,22);
+
+
+}
